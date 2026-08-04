@@ -19,6 +19,7 @@ An AI-powered web application that converts PDF study materials into concise not
 - Google Gemini API
 - PyMuPDF
 
+
 ### Frontend
 - React
 
