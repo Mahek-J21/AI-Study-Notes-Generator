@@ -1,24 +1,19 @@
+
 # Python
 __pycache__/
 *.pyc
 
 # Virtual Environment
 venv/
-backend/venv/
 
-# Environment variables
+# Environment Variables
 .env
+
+# Uploaded PDFs
+uploads/
 
 # VS Code
 .vscode/
 
-# Node modules
-frontend/node_modules/
-
-# Build files
-dist/
-build/
-
-backend/uploads
-
-.env
+# macOS
+.DS_Store
